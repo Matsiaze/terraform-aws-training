@@ -1,4 +1,6 @@
-## 00-Use this discovery script to deploy an aws instance using terraform
+## Use this discovery script to deploy an aws instance using terraform
+
+*Enjoy and feel free to improve it for your own purpose*
 
   > **Pre-requisites**: 
      - Install terraform on your system. See Documentation here *https://developer.hashicorp.com/terraform/downloads*
@@ -9,7 +11,7 @@
 
      - Create a key pair in EC2 service and update the ec2.tf file
 
-## Run terraform from your workspace 
+## 00-Run terraform from your workspace 
   > **Run terraform commands**:
 
      - [ terraform init ] To initialize the working directory that contains the script
